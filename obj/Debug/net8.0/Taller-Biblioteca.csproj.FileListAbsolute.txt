@@ -1,0 +1,15 @@
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\Taller-Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\Taller-Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\Taller-Biblioteca.AssemblyInfo.cs
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\Taller-Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\Taller-Biblioteca.sourcelink.json
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\bin\Debug\net8.0\Taller-Biblioteca.exe
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\bin\Debug\net8.0\Taller-Biblioteca.deps.json
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\bin\Debug\net8.0\Taller-Biblioteca.runtimeconfig.json
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\bin\Debug\net8.0\Taller-Biblioteca.dll
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\bin\Debug\net8.0\Taller-Biblioteca.pdb
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\Taller-Biblioteca.dll
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\refint\Taller-Biblioteca.dll
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\Taller-Biblioteca.pdb
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\Taller-Biblioteca.genruntimeconfig.cache
+C:\Users\Valeria\C#\Nueva carpeta\Taller-Biblioteca\obj\Debug\net8.0\ref\Taller-Biblioteca.dll
